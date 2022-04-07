@@ -24,7 +24,8 @@ Nationality : Russian American German
 
 **Skills And Apps:**  
 
-<code><img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/svmuelxo/aboutme/main/images/Adobe_Photoshop_CC_icon.svg.png"></code> 
+<code><img height="20" src="https://www.nicepng.com/png/detail/125-1259519_fl-studio-12-logo-fl-studio-logo-png.png"></code> 
 
 **Social Media**
 
