@@ -32,8 +32,8 @@ Nationality : Russian American German
 **Social Media**
 
 [<img src="https://raw.githubusercontent.com/svmuelxo/about-me/98e5368dbb27ee297ac6bec2a80b8873a28bb187/iconmonstr-telegram-1.svg">](http://t.me/ihvte/)
-[<img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png" width="24" height="24">](https://www.instagram.com/svmuelxo/)
-[<img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2014/96/iconmonstr-steam-5.png" width="24" height="24">](https://steamcommunity.com/id/svmuelxo/)
+[<img src="https://raw.githubusercontent.com/svmuelxo/aboutme/b4465e27f6f11f29514ec0ddecadca4b4173fc40/images/iconmonstr-instagram-11.svg" width="24" height="24">](https://www.instagram.com/svmuelxo/)
+[<img src="https://raw.githubusercontent.com/svmuelxo/aboutme/b4465e27f6f11f29514ec0ddecadca4b4173fc40/images/iconmonstr-steam-1.svg" width="24" height="24">](https://steamcommunity.com/id/svmuelxo/)
 
 
 <!--
