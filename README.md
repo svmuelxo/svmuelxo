@@ -19,7 +19,7 @@ Age : 19
 
 𝖤𝖭𝖥𝖯-𝖳
 
-Country : Germany Russia USA Netherlands
+Country : Germany Russia USA 
 
 Nationality : Russian American German
 
