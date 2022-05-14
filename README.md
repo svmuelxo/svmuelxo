@@ -4,7 +4,7 @@ My Name Is [svmuel](https://t.me/ihvte), im a Russian American Music Producer & 
 
 I Make Music Under The Alias [Relentis](https://soundcloud.com/Relentis)
 
-<img align="middle" src="https://64.media.tumblr.com/1a0501b3c171db2fb2e1b3bc576a12ba/tumblr_oqps0mlUHv1qm3r26o1_1280.gif" width="707" height="1000" />
+<img align="middle" src="https://assets.pinterest.com/ext/embed.html?id=485685141074049990" height="445" width="345" />
 
 **My Personal Information:**
 
