@@ -18,9 +18,9 @@ Age : 19
 
 𝖤𝖭𝖥𝖯-𝖳
 
-Country : Germany Russia USA 
+Country : Russia USA 
 
-Nationality : Russian American German
+Nationality : Russian / American
 
 
 **Skills And Apps:**  
