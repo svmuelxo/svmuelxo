@@ -8,9 +8,9 @@ I Make Music Under The Alias [Relentis](https://soundcloud.com/Relentis)
 
 **My Personal Information:**
 
-Name: Samuel
+Name: Samuel-Elina 
 
-Lastname: Morozov
+Lastname: Morozova
 
 
 
