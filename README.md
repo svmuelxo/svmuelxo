@@ -8,13 +8,13 @@ I Make Music Under The Alias [Relentis](https://soundcloud.com/Relentis)
 
 **My Personal Information:**
 
-Name: Samuel-Elina 
+Name: Samuel
 
-Lastname: Morozova
+Lastname: SHZ
 
 
 
-Age : 19
+Age : 20
 
 I𝖭𝖥𝖯-𝖳
 
