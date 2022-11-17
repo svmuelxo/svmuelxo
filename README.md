@@ -1,6 +1,6 @@
 ### Hi <img src="https://cdn.discordapp.com/emojis/744623964000747601.gif?size=4096&quality=lossless" width="25px"></h2>
 
-My Name Is [svmuel](https://t.me/ihvte), im a Russian American Music Producer & Visual Artist And Native English Speaker Based in California
+My Name Is [svmuel](https://t.me/ihvte), im a Iranian American Music Producer & Visual Artist And Native English Speaker Based in California
 
 I Make Music Under The Alias [Relentis](https://soundcloud.com/Relentis)
 
@@ -20,7 +20,7 @@ I𝖭𝖥𝖯-𝖳
 
 Country : Russia USA 
 
-Nationality : Russian / American
+Nationality : Iranian / American
 
 
 **Skills And Apps:**  
