@@ -18,7 +18,7 @@ Age : 20
 
 I𝖭𝖥𝖯-𝖳
 
-Country : Russia USA 
+Country : Iran / USA
 
 Nationality : Iranian / American
 
