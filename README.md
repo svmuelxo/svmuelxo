@@ -30,8 +30,7 @@ Nationality : Iranian
 
 **Social Media**
 
-[<img src="https://">](http://t.me/ihvte/)
-[<img src="https://raw.githubusercontent.com/svmuelxo/aboutme/b4465e27f6f11f29514ec0ddecadca4b4173fc40/images/iconmonstr-instagram-11.svg" width="24" height="24">](https://www.instagram.com/svmuelxo/)
+[<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/d537512ca2e7c802753175486c5556c9a08b0396/iconmonstr-telegram-1.svg">](http://t.me/ihvte/)
 [<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/main/iconmonstr-steam-1-240.png" width="24" height="24">](https://steamcommunity.com/profiles/76561198367521922/)
 
 
