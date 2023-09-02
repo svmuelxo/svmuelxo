@@ -4,7 +4,7 @@ My Name Is [svmuel](https://t.me/ihvte), im a Iranian  Music Producer & Visual A
 
 I Make Music Under The Alias [Relentis](https://soundcloud.com/Relentis)
 
-<img align="middle" src="https://raw.githubusercontent.com/svmuelxo/aboutme/main/download.gif" height="540"/>
+<img align="middle" src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/main/tumblr_ohiwoyBsOX1so7f1to1_500.gif" height="540"/>
 
 **My Personal Information:**
 
