@@ -24,13 +24,12 @@ Nationality : Iranian
 
 
 **Skills And Apps:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/svmuelxo/aboutme/main/images/Adobe_Photoshop_CC_icon.svg.png"></code> 
+ 
 <code><img height="20" src="https://www.nicepng.com/png/detail/125-1259519_fl-studio-12-logo-fl-studio-logo-png.png"></code> 
 
 **Social Media**
 
-[<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/d537512ca2e7c802753175486c5556c9a08b0396/iconmonstr-telegram-1.svg">](http://t.me/ihvte/)
+[<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/d537512ca2e7c802753175486c5556c9a08b0396/iconmonstr-telegram-1.svg">](http://t.me/nezhnxst/)
 [<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/main/iconmonstr-steam-1-240.png" width="24" height="24">](https://steamcommunity.com/profiles/76561198367521922/)
 
 
