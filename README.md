@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/refs/heads/main/o_1gfrlbb725hnud0v6mbqd1m2vh.gif"/>
+<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/refs/heads/main/_teach%20me%20how%20to%20doki_.gif"/>
 <br><br>
 <pre>
     💼 Studying Coding • Music Producer
@@ -9,7 +9,7 @@
     🗣️ English Deutsch فارسی Türkçe
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/refs/heads/main/o_1gfrlbb725hnud0v6mbqd1m2vh.gif" height="40" />
+<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/refs/heads/main/o_1gfrlbb725hnud0v6mbqd1m2vh.gif" height="230" />
 <br><br>
     
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
