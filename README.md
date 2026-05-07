@@ -3,9 +3,9 @@
 <br><br>
 <pre>
     💼 English Speak • Studying Coding • Music Producer
-    💻 System programming languages • DevOps 
+    💻 Samuel • 23 Years Old
     📖 Want to Learn front-end - Back-end 
-    🎮 Music • Games • Anime • Code • Art
+    🎮 Music • Games • Anime • Code 
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/refs/heads/main/o_1gfrlbb725hnud0v6mbqd1m2vh.gif" height="40" />
