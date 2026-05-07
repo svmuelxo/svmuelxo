@@ -1,48 +1,18 @@
-### Hi <img src="https://cdn.discordapp.com/emojis/744623964000747601.gif?size=4096&quality=lossless" width="25px"></h2>
-
-My Name Is [svmuel](https://t.me/ihvte), im a Iranian  Music Producer & Visual Artist And Fluent English Speaker 
-
-I Make Music Under The Alias [Relentis](https://soundcloud.com/Relentis)
-
-<img align="middle" src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/main/tumblr_ohiwoyBsOX1so7f1to1_500.gif" height="540"/>
-
-**My Personal Information:**
-
-Name: Samuel
-
-Lastname: SHZ
-
-
-
-Age : 22
-
-I𝖭𝖥𝖯-𝖳
-
-Country : Iran
-
-Nationality : Iranian
-
-
-**Skills And Apps:**  
- 
-<code><img height="20" src="https://www.nicepng.com/png/detail/125-1259519_fl-studio-12-logo-fl-studio-logo-png.png"></code> 
-
-**Social Media**
-
-[<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/d537512ca2e7c802753175486c5556c9a08b0396/iconmonstr-telegram-1.svg">](http://t.me/nezhnxst/)
-[<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/main/iconmonstr-steam-1-240.png" width="24" height="24">](https://steamcommunity.com/profiles/76561198367521922/)
-
-
-<!--
-  <
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 English Speak • Studying Coding • Music Producer
+    💻 System programming languages • DevOps 
+    📖 Want to Learn front-end - Back-end 
+    🎮 Music • Games • Anime • Code • Art
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/refs/heads/main/o_1gfrlbb725hnud0v6mbqd1m2vh.gif" height="40" />
+<br><br>
+    
+<!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
+<!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
+[![](https://shields.io/badge/steam-1b2838?logo=stea)](https://steamcommunity.com/id/tl-/)
+</div>
