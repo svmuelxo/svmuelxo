@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/svmuelxo/svmuelxo/refs/heads/main/o_1gfrlbb725hnud0v6mbqd1m2vh.gif"/>
 <br><br>
 <pre>
     💼 English Speak • Studying Coding • Music Producer
